@@ -1,3 +1,3 @@
-# wikihero
+An hybrid mobile app that gives your stats on Marvel characters, also let's you battle them according to their stats.
 
-Property of Kenon Naidoo. Created and submitted on 12 Nov 2020
+Free to use for whatever
